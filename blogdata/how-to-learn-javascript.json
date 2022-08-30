@@ -1,0 +1,6 @@
+{
+    "tittle" : "how to learn javascript" , 
+    "content": " Let’s break this down. JavaScript is typically used as a client-side scripting language for front end development. In simple terms, this means that developers use JavaScript to build the part of a website that ordinary visitors can see and interact with, also known as the “front end.” While the programming language can technically be used to create complex programs, its primary application lies in web development. <br>front end programmers typically use JavaScript in conjunction with two markup languages, HTML and CSS, to create all of the elements that a user can see and interact with directly. Most common actions, such as transactions, submitting customer feedback, and even logging in, are facilitated by HTML code. CSS, on the other hand, centers more on formatting and appearance; it allows developers to describe how the HTML should look to a visitor. Both, however, are static. With only HTML and CSS, a web page is unchanging and relatively simplistic. ",
+    "author" : "th v",
+    "slug" : "how-to-learn-javascript"
+} 
